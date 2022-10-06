@@ -1,0 +1,1 @@
+<view class="goods-container"><good-list vue-id="576f0adc-1" goods="{{goods}}" bind:__l="__l"></good-list><block wx:if="{{end}}"><view class="end">--没有更多商品了哦--</view></block></view>

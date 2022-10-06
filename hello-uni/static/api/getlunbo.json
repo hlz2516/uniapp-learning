@@ -1,0 +1,25 @@
+{
+	"status":0,
+	"message":[
+		{
+			"id":1,
+			"url":"",
+			"img":"/static/imgs/bg1.webp"
+		},
+		{
+			"id":2,
+			"url":"",
+			"img":"/static/imgs/bg2.webp"
+		},
+		{
+			"id":3,
+			"url":"",
+			"img":"/static/imgs/bg3.webp"
+		},
+		{
+			"id":4,
+			"url":"",
+			"img":"/static/imgs/bg4.webp"
+		}
+	]
+}

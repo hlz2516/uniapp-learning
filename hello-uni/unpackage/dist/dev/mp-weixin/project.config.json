@@ -1,0 +1,35 @@
+{
+    "description": "项目配置文件。",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "setting": {
+        "urlCheck": false,
+        "ignoreUploadUnusedFiles": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        }
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.25.4",
+    "appid": "touristappid",
+    "projectname": "hello-uni",
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "nav",
+                    "pathName": "pages/navigator/navigator",
+                    "query": ""
+                }
+            ]
+        }
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}

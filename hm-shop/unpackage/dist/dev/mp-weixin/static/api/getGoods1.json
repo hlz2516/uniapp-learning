@@ -1,0 +1,73 @@
+{
+	"status": 0,
+	"message": {
+		"total": 15,
+		"pagenum": 1,
+		"goods": [
+			{
+				"id": 1,
+				"name": "Xiaomi Civi 2",
+				"sell_price": 2399,
+				"market_price": 2599,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/xiaomi_civi2.webp"
+			},
+			{
+				"id": 2,
+				"name": "Xiaomi MIX Fold 2",
+				"sell_price": 8999,
+				"market_price": 12999,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/xiaomi_mixfold_2.webp"
+			},
+			{
+				"id": 3,
+				"name": "Redmi K50 至尊版",
+				"sell_price": 2999,
+				"market_price": 3499,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/redmi_k50_pro.webp"
+			},
+			{
+				"id": 4,
+				"name": "Xiaomi 12S Ultra",
+				"sell_price": 5999,
+				"market_price": 6399,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/xiaomi_12s_ultra.webp"
+			},
+			{
+				"id": 5,
+				"name": "Xiaomi 12S Pro",
+				"sell_price": 4499,
+				"market_price": 5499,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/xiaomi_12s_pro.webp"
+			},
+			{
+				"id": 6,
+				"name": "Xiaomi 12S",
+				"sell_price": 3799,
+				"market_price": 4199,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/xiaomi_12s.webp"
+			},
+			{
+				"id": 7,
+				"name": "Xiaomi 12 Pro 天玑版",
+				"sell_price": 3799,
+				"market_price": 3999,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/xiaomi_12s_tianji.webp"
+			},
+			{
+				"id": 8,
+				"name": "Xiaomi 12 Pro 天玑版",
+				"sell_price": 1899,
+				"market_price": 2099,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/xiaomi_note_11t_pro.webp"
+			}
+		]
+	}
+}

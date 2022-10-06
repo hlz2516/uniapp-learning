@@ -1,0 +1,65 @@
+{
+	"status": 0,
+	"message": {
+		"total": 15,
+		"pagenum": 2,
+		"goods": [
+			{
+				"id": 9,
+				"name": "Redmi G Pro 游戏本",
+				"sell_price": 8999,
+				"market_price": 9299,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/book1.webp"
+			},
+			{
+				"id": 10,
+				"name": "Redmi Book Pro 15 2022",
+				"sell_price": 5599,
+				"market_price": 5899,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/book2.webp"
+			},
+			{
+				"id": 11,
+				"name": "Redmi Book Pro 14 2022",
+				"sell_price": 5399,
+				"market_price": 5699,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/book3.webp"
+			},
+			{
+				"id": 12,
+				"name": "小米平板5 Pro 12.4",
+				"sell_price": 2799,
+				"market_price": 2999,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/book4.webp"
+			},
+			{
+				"id": 13,
+				"name": "RedmiBook Pro 15 R5",
+				"sell_price": 5299,
+				"market_price": 5499,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/book5.webp"
+			},
+			{
+				"id": 14,
+				"name": "Pro 14 增强版 i5 独显 - Win11",
+				"sell_price": 4799,
+				"market_price": 5599,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/book6.webp"
+			},
+			{
+				"id": 15,
+				"name": "小米平板5 Pro",
+				"sell_price": 2299,
+				"market_price": 2499,
+				"add_time": "2020-05-29 20:00:00",
+				"img_url": "/static/imgs/book7.webp"
+			}
+		]
+	}
+}

@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cart/cart",
+    "pages/news/news",
+    "pages/member/member",
+    "pages/goods/goods",
+    "pages/contact/contact"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "黑马商城",
+    "navigationBarBackgroundColor": "#b50e03",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#b50e03",
+    "color": "#ccc",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home (1).png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "iconPath": "static/icons/global.png",
+        "selectedIconPath": "static/icons/global (1).png",
+        "text": "资讯"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/icons/cart.png",
+        "selectedIconPath": "static/icons/cart (1).png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/member/member",
+        "iconPath": "static/icons/person.png",
+        "selectedIconPath": "static/icons/person (1).png",
+        "text": "我"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
